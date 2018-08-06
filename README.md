@@ -1,12 +1,11 @@
 # An Error
 
-You will be studying each error you come across in a repository much like a Snippet Study, and collecting them in your Error-Log index repository. This repo contains instructions for how to document different classes of error.
+You will be studying each error you come across in a repository much like a Snippet Study, and collecting them in your Error-Log index repository. This repo contains instructions for how to document different classes of error. (Each bulleted link should have it's own section in your Error-Log repo):
 
 * [Warnings](#warnings)  
 * [Syntax Errors](#syntax-errors)
 * [Runtime Errors](#runtime-errors)
 * [Logic Errors](#logic-errors)
-* [Resources](#resources)
 
 All JS engines execute JavaScript code in the same way (at least the central bits of JS), but not all engines will throw the same errors and warnings.  So for the error logs you will need to record the messages logged by each main JS engine:
 * V8 (Chrome, Node)
